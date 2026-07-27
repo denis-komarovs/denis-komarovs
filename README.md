@@ -1,26 +1,10 @@
-# Denis Komarovs
-### Aspiring Web Developer • Computer Science Student
-> /ᐠ - ˕ -マ /ᐠ. .ᐟ\ /ᐠ≽•ヮ•≼マ /ᐠ˵•ᴗ•˵マ /ᐠ•̀ᴗ•́マ /ᐠ - ˕ -マ zzz
+## ❯ About Me
 
+Hi, I'm Denis, a Computer Science student at the University of East Anglia, currently completing my Year in Industry before returning for my third and final year.
+I'm also the founder of **Fandom Lover**, a platform that brings together movies, TV shows, and games into one place to help people track, discover, review, and organise everything they enjoy.
 ---
 
-## About Me
-
-I'm Denis, a Computer Science student at UEA.
-
-I'm currently building **Fandom Lover** — a platform that brings together all your media in one place, making it easy to track, discover, review, and organise everything you enjoy.
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,docker,git,github,linux,vscode,npm" />
-</p>
-
----
-
-## 🚀 Currently Building
+## ❯ Main Projects
 
 # Fandom Lover
 
@@ -28,20 +12,52 @@ I'm currently building **Fandom Lover** — a platform that brings together all 
 
 Fandom Lover is an all-in-one media tracking platform designed for people who love entertainment.
 
-### Features
-
-- 🎬 Movies
-- 📺 TV Shows
-- 🎮 Games
-- 📝 Reviews
-- 📚 Collections
-- 📊 Statistics
-- ⭐ Ratings
-- 💬 Community
-
 ### Website
 
 🌐 https://fandomlover.com
 
 ---
 
+## ❯ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### Frameworks & Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
+</p>
+
+### Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="48" />
+</p>
+
+---
+
+## ❯ Previously Worked With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,mongodb,java,c,cpp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" height="48" />
+</p>
+
+> Technologies I've used through university projects, personal projects, or previous work, but don't currently use as part of my primary stack.
