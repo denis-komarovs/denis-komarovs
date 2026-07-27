@@ -1,6 +1,6 @@
 # Denis Komarovs
 ### Aspiring Web Developer • Computer Science Student
-> /ᐠ - ˕ -マ building things with care
+> /ᐠ - ˕ -マ /ᐠ. .ᐟ\ /ᐠ≽•ヮ•≼マ /ᐠ˵•ᴗ•˵マ /ᐠ•̀ᴗ•́マ /ᐠ - ˕ -マ zzz
 
 ---
 
@@ -45,17 +45,3 @@ Fandom Lover is an all-in-one media tracking platform designed for people who lo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
-</p>
