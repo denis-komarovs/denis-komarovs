@@ -1,24 +1,36 @@
-## ❯ About Me
+# Denis Komarovs
 
-Hi, I'm Denis, a Computer Science student at the University of East Anglia, currently completing my Year in Industry before returning for my third and final year.
-I'm also the founder of **Fandom Lover**, a platform that brings together movies, TV shows, and games into one place to help people track, discover, review, and organise everything they enjoy.
----
+### Aspiring Web Developer • Computer Science Student
 
-## ❯ Main Projects
+```text
+/ᐠ - ˕ -マ
+```
 
-# Fandom Lover
+* Computer Science student at the **University of East Anglia**
+* Currently completing a **Year in Industry**
+* Building **Fandom Lover**, a media tracking platform for movies, TV shows, and games
+* Enjoy turning ideas into polished, user-friendly web applications
+* Constantly learning, experimenting, and improving through personal projects
 
-> **Track and discover every universe in one place.**
 
-Fandom Lover is an all-in-one media tracking platform designed for people who love entertainment.
+--- 
+
+
+## Main Projects
+
+### Fandom Lover
+
+A platform that brings together **movies, TV shows, games, books, people & company tracking** into one place, making it easier to track, discover, review, and organise everything you enjoy.
 
 ### Website
+https://fandomlover.com
 
-🌐 https://fandomlover.com
 
----
+## Silly Cool Projects
+>coming soon...
 
-## ❯ Tech Stack
+
+## Tech Stack
 
 ### Languages
 
@@ -41,7 +53,7 @@ Fandom Lover is an all-in-one media tracking platform designed for people who lo
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
 </p>
 
 ### Deployment
@@ -51,13 +63,18 @@ Fandom Lover is an all-in-one media tracking platform designed for people who lo
   <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="48" />
 </p>
 
----
-
-## ❯ Previously Worked With
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,mongodb,java,c,cpp" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" height="48" />
-</p>
+## Previously Worked With
 
 > Technologies I've used through university projects, personal projects, or previous work, but don't currently use as part of my primary stack.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,mongodb,java,c,cpp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" height="48" style="vertical-align:middle;" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
