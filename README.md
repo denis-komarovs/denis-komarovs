@@ -27,7 +27,9 @@ https://fandomlover.com
 
 
 ## Silly Cool Projects
->coming soon...
+### Happy Birthday Prototype
+A fun prototype exploring the idea of interactive digital greeting cards. Built as a rapid proof of concept, it combines animations, transitions, music, and personalised interactions to create a more engaging alternative to a traditional birthday card. Developed collaboratively with **ichooooo**.
+https://denis-komarovs.github.io/happy-birthday-prototype
 
 
 ## Tech Stack
