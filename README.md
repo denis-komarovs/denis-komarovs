@@ -22,15 +22,19 @@
 
 A platform that brings together **movies, TV shows, games, books, people & company tracking** into one place, making it easier to track, discover, review, and organise everything you enjoy.
 
-### Website
+#### Website
 https://fandomlover.com
 
 
-## Silly Cool Projects
+## Side Projects
 ### Happy Birthday Prototype
-A fun prototype exploring the idea of interactive digital greeting cards. Built as a rapid proof of concept, it combines animations, transitions, music, and personalised interactions to create a more engaging alternative to a traditional birthday card. Developed collaboratively with **ichooooo**.
+A fun prototype exploring the idea of interactive digital greeting cards. Built as a rapid proof of concept, it combines animations, transitions, and personalised interactions to create a more engaging alternative to a traditional birthday card. Developed collaboratively with **ichooooo**.
+
+#### Website
 https://denis-komarovs.github.io/happy-birthday-prototype
 
+### Enterprise Tetris
+Currently developing a Tetris game as a way to learn professional software engineering practices rather than just game development. The focus is on working like part of a real development team: writing high-quality Jira tickets, planning features in Figma, following Git and GitHub workflows, creating meaningful commits and pull requests, using CI/CD, and implementing features without AI assistance to improve my fundamentals.
 
 ## Tech Stack
 
